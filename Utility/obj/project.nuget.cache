@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TeyeLOTHyk4nT1sQhU9nN+HrTj28TwZ0mrHtAKlnHIXrh7Of8VN7XoaRMeUGv2+nUpt1zMjQmYGSwGZFfdpPqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\John\\source\\repos\\API\\Utility\\Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
